@@ -1,0 +1,1 @@
+console.log("[+] Node task 1 init");
